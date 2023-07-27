@@ -1,0 +1,5 @@
+name: diffcalc-core-env
+
+dependencies:
+  - pip:
+    - diffcalc-core==0.4.0
